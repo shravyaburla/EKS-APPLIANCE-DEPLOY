@@ -1,0 +1,4 @@
+/* owl.theme.green.css */
+.owl-theme .owl-nav [class*='owl-'] {
+  background: green;
+}
